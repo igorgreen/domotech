@@ -47,8 +47,8 @@
 		— выбор типа возвращаемых данных (json или xml, по выбору клиентского приложения)
 ОТВЕТ:
 проработан входной гет параметр datetype
-xml возвращает если /?get_users&email=user4@mail.ru&datetype=xml
-json соответственно /?get_users&email=user4@mail.ru&datetype=json 
+xml возвращает если /?get_users&email=3dsite@bk.ru&datetype=xml
+json соответственно /?get_users&email=3dsite@bk.ru&datetype=json 
 так же если вообще не установлен тоже ответ в json	
 	
 	
